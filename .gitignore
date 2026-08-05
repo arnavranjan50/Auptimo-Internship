@@ -1,0 +1,20 @@
+# Python cache & build outputs
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large binary files & media (3.3GB+)
+*.mp4
+*.zip
+ffmpeg/
+Walking videos/
+~$*
+
+# Office Documents / Presentations
+*.pptx
+*.docx
+
+# Environment / IDE
+.vscode/
+.idea/
+.env
